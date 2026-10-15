@@ -1,0 +1,6 @@
+{
+  "name": "FlashRecall",
+  "description": "Spaced repetition flashcards with spelling, pronunciation, image recognition, and AI-driven scenario conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
